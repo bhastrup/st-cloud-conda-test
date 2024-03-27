@@ -1,0 +1,7 @@
+name: test-conda-streamlit
+channels:
+ - defaults
+dependencies:
+  - pip
+  pip:
+    streamlit
